@@ -1,0 +1,28 @@
+,Region,Make,NumOfModel,Model,Displ,Cyl,Trans,Drive,Fuel,VehClass,CityMPG,HwyMPG,CmbMPG,GreenhouseGasScore
+0,Asian,Acura,2,"RLX, RLX",2.4,4,AMS-8,2WD,Gasoline,small car,25,35,29,7
+4,European,Audi,3,"A3, A3 e-tron, A4 Ultra",2,4,AMS-7,2WD,Gasoline,small car,26,35,29,7
+10,European,Bmw,8,"328d, 328d Sports Wagon, 330e, ",2,4,SemiAuto-8,2WD,Diesel,small car,31,43,36,7
+30,American,Buick,1,Encore,1.4,4,SemiAuto-6,2WD,Gasoline,small SUV,27,33,30,7
+33,American,Cadillac,1,CT6 Hybrid,2,4,CVT,2WD,Gasoline/Electricity,midsize car,23,29,26,10
+37,American,Chevrolet,19,Cruze,1.4,4,Man-6,2WD,Gasoline,small car,28,39,32,7
+77,American,Chrysler,1,Pacifica Hybrid,3.6,6,CVT,2WD,Gasoline/Electricity,minivan,32,33,32,10
+79,European,Fiat,6,124 Spider,1.4,4,Auto-6,2WD,Gasoline,small car,25,36,29,7
+93,American,Ford,14,C-MAX Energi Plug-In Hybrid,2,4,CVT,2WD,Gasoline/Electricity,midsize car,41,38,39,10
+123,Asian,Honda,25,Accord,2,4,CVT,2WD,Gasoline,midsize car,49,47,48,10
+193,Asian,Hyundai,17,Accent,1.6,4,Man-6,2WD,Gasoline,small car,27,37,31,7
+237,Asian,Infiniti,2,Q50 Hybrid,3.5,6,SemiAuto-7,2WD,Gasoline,small car,27,32,29,7
+241,European,Jaguar,4,XE,2,4,SemiAuto-8,2WD,Diesel,small car,32,42,36,7
+249,Asian,Kia,11,Forte,2,4,SemiAuto-6,2WD,Gasoline,midsize car,29,38,32,7
+277,Asian,Lexus,4,CT 200h,1.8,4,CVT,2WD,Gasoline,small car,43,40,42,9
+287,American,Lincoln,1,MKZ Hybrid,2,4,CVT,2WD,Gasoline,midsize car,41,38,40,9
+289,Asian,Mazda,17,2,1.5,4,Man-6,2WD,Gasoline,small car,30,39,34,8
+325,European,Mercedes-Benz,4,C350e,2,4,Auto-7,2WD,Gasoline/Electricity,small car,28,32,30,9
+333,European,Mini,4,Cooper Convertible,1.5,3,Man-6,2WD,Gasoline,small car,28,37,32,7
+343,Asian,Mitsubishi,5,Lancer,2,4,SCV-6,2WD,Gasoline,small car,27,34,30,7
+355,Asian,Nissan,13,Altima,2.5,4,CVT,2WD,Gasoline,midsize car,27,39,31,7
+383,European,Porsche,1,Cayenne S e-Hybrid,3,6,AutoMan-8,4WD,Gasoline/Electricity,standard SUV,21,24,22,8
+385,European,Smart,4,ForTwo Convertible,0.9,3,AutoMan-6,2WD,Gasoline,small car,33,38,35,8
+395,Asian,Subaru,6,Crosstrek,2,4,SCV-6,4WD,Gasoline,small SUV,26,33,29,7
+437,Asian,Toyota,21,Avalon Hybrid,2.5,4,SCV-6,2WD,Gasoline,midsize car,40,39,40,9
+483,European,Volkswagen,6,Golf,1.8,4,Man-5,2WD,Gasoline,small car,25,36,29,7
+496,European,Volvo,4,S60,2,4,SemiAuto-8,2WD,Gasoline,small car,25,36,29,7
