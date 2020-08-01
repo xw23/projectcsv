@@ -1,0 +1,156 @@
+,Region,Manufacturer,Model,SalesThousands,VehicleType,PriceThousands,EngineSize,Horsepower,FuelCapacity,FuelEfficiency
+0,Asian,Acura,Integra,16.919,Passenger,21.5,1.8,140.0,13.2,28.0
+1,Asian,Acura,TL,39.384,Passenger,28.4,3.2,225.0,17.2,25.0
+3,Asian,Acura,RL,8.588,Passenger,42.0,3.5,210.0,18.0,22.0
+4,European,Audi,A4,20.397000000000002,Passenger,23.99,1.8,150.0,16.4,27.0
+5,European,Audi,A6,18.78,Passenger,33.95,2.8,200.0,18.5,22.0
+6,European,Audi,A8,1.38,Passenger,62.0,4.2,310.0,23.7,21.0
+7,European,BMW,323i,19.747,Passenger,26.99,2.5,170.0,16.6,26.0
+8,European,BMW,328i,9.231,Passenger,33.4,2.8,193.0,16.6,24.0
+9,European,BMW,528i,17.527,Passenger,38.9,2.8,193.0,18.5,25.0
+10,American,Buick,Century,91.561,Passenger,21.975,3.1,175.0,17.5,25.0
+11,American,Buick,Regal,39.35,Passenger,25.3,3.8,240.0,17.5,23.0
+12,American,Buick,Park Avenue,27.851,Passenger,31.965,3.8,205.0,18.5,24.0
+13,American,Buick,LeSabre,83.257,Passenger,27.885,3.8,205.0,17.5,25.0
+14,American,Cadillac,DeVille,63.729,Passenger,39.895,4.6,275.0,18.5,22.0
+15,American,Cadillac,Seville,15.943,Passenger,44.475,4.6,275.0,18.5,22.0
+16,American,Cadillac,Eldorado,6.5360000000000005,Passenger,39.665,4.6,275.0,19.0,22.0
+17,American,Cadillac,Catera,11.185,Passenger,31.01,3.0,200.0,18.0,22.0
+18,American,Cadillac,Escalade,14.785,Car,46.225,5.7,255.0,30.0,15.0
+19,American,Chevrolet,Cavalier,145.519,Passenger,13.26,2.2,115.0,14.3,27.0
+20,American,Chevrolet,Malibu,135.126,Passenger,16.535,3.1,170.0,15.0,25.0
+21,American,Chevrolet,Lumina,24.629,Passenger,18.89,3.1,175.0,16.6,25.0
+22,American,Chevrolet,Monte Carlo,42.593,Passenger,19.39,3.4,180.0,17.0,27.0
+23,American,Chevrolet,Camaro,26.401999999999997,Passenger,24.34,3.8,200.0,16.8,25.0
+24,American,Chevrolet,Corvette,17.947,Passenger,45.705,5.7,345.0,19.1,22.0
+25,American,Chevrolet,Prizm,32.299,Passenger,13.96,1.8,120.0,13.2,33.0
+26,American,Chevrolet,Metro,21.855,Passenger,9.235,1.0,55.0,10.3,45.0
+27,American,Chevrolet,Impala,107.995,Passenger,18.89,3.4,180.0,17.0,27.0
+28,American,Chrysler,Sebring Coupe,7.854,Passenger,19.84,2.5,163.0,15.9,24.0
+29,American,Chrysler,Sebring Conv.,32.775,Passenger,24.495,2.5,168.0,16.0,24.0
+30,American,Chrysler,Concorde,31.148000000000003,Passenger,22.245,2.7,200.0,17.0,26.0
+31,American,Chrysler,Cirrus,32.306,Passenger,16.48,2.0,132.0,16.0,27.0
+32,American,Chrysler,LHS,13.462,Passenger,28.34,3.5,253.0,17.0,23.0
+34,American,Chrysler,300M,30.695999999999998,Passenger,29.185,3.5,253.0,17.0,23.0
+35,American,Dodge,Neon,76.03399999999999,Passenger,12.64,2.0,132.0,12.5,29.0
+36,American,Dodge,Avenger,4.734,Passenger,19.045,2.5,163.0,15.9,24.0
+37,American,Dodge,Stratus,71.186,Passenger,20.23,2.5,168.0,16.0,24.0
+38,American,Dodge,Intrepid,88.02799999999999,Passenger,22.505,2.7,202.0,17.0,21.0
+39,American,Dodge,Viper,0.9159999999999999,Passenger,69.725,8.0,450.0,19.0,16.0
+40,American,Dodge,Ram Pickup,227.06099999999998,Car,19.46,5.2,230.0,26.0,17.0
+41,American,Dodge,Ram Wagon,16.767,Car,21.315,3.9,175.0,32.0,15.0
+42,American,Dodge,Ram Van,31.038,Car,18.575,3.9,175.0,32.0,16.0
+43,American,Dodge,Dakota,111.31299999999999,Car,16.98,2.5,120.0,22.0,19.0
+44,American,Dodge,Durango,101.323,Car,26.31,5.2,230.0,25.0,17.0
+45,American,Dodge,Caravan,181.74900000000002,Car,19.565,2.4,150.0,20.0,24.0
+46,American,Ford,Escort,70.227,Passenger,12.07,2.0,110.0,12.7,30.0
+47,American,Ford,Mustang,113.369,Passenger,21.56,3.8,190.0,15.7,24.0
+48,American,Ford,Contour,35.068000000000005,Passenger,17.035,2.5,170.0,15.0,25.0
+49,American,Ford,Taurus,245.815,Passenger,17.885,3.0,155.0,16.0,24.0
+50,American,Ford,Focus,175.67,Passenger,12.315,2.0,107.0,13.2,30.0
+51,American,Ford,Crown Victoria,63.403,Passenger,22.195,4.6,200.0,19.0,21.0
+52,American,Ford,Explorer,276.747,Car,31.93,4.0,210.0,21.0,19.0
+53,American,Ford,Windstar,155.787,Car,21.41,3.0,150.0,26.0,21.0
+54,American,Ford,Expedition,125.338,Car,36.135,4.6,240.0,26.0,16.0
+55,American,Ford,Ranger,220.65,Car,12.05,2.5,119.0,20.0,23.0
+56,American,Ford,F-Series,540.561,Car,26.935,4.6,220.0,25.1,18.0
+57,Asian,Honda,Civic,199.685,Passenger,12.885,1.6,106.0,11.9,32.0
+58,Asian,Honda,Accord,230.90200000000002,Passenger,15.35,2.3,135.0,17.1,27.0
+59,Asian,Honda,CR-V,73.203,Car,20.55,2.0,146.0,15.3,24.0
+60,Asian,Honda,Passport,12.855,Car,26.6,3.2,205.0,21.1,19.0
+61,Asian,Honda,Odyssey,76.029,Car,26.0,3.5,210.0,20.0,23.0
+62,Asian,Hyundai,Accent,41.184,Passenger,9.699,1.5,92.0,11.9,31.0
+63,Asian,Hyundai,Elantra,66.692,Passenger,11.799,2.0,140.0,14.5,27.0
+64,Asian,Hyundai,Sonata,29.45,Passenger,14.999,2.4,148.0,17.2,25.0
+65,Asian,Infiniti,I30,23.713,Passenger,29.465,3.0,227.0,18.5,25.0
+66,European,Jaguar,S-Type,15.467,Passenger,42.8,3.0,240.0,18.4,21.0
+67,American,Jeep,Wrangler,55.556999999999995,Car,14.46,2.5,120.0,19.0,17.0
+68,American,Jeep,Cherokee,80.556,Car,21.62,4.0,190.0,20.0,20.0
+69,American,Jeep,Grand Cherokee,157.04,Car,26.895,4.0,195.0,20.5,19.0
+70,Asian,Lexus,ES300,24.072,Passenger,31.505,3.0,210.0,18.5,23.0
+71,Asian,Lexus,GS300,12.698,Passenger,37.805,3.0,225.0,19.8,23.0
+72,Asian,Lexus,GS400,3.3339999999999996,Passenger,46.305,4.0,300.0,19.8,21.0
+73,Asian,Lexus,LS400,6.375,Passenger,54.005,4.0,290.0,22.5,22.0
+74,Asian,Lexus,LX470,9.126,Car,60.105,4.7,230.0,25.4,15.0
+75,Asian,Lexus,RX300,51.238,Car,34.605,3.0,220.0,17.2,21.0
+76,American,Lincoln,Continental,13.798,Passenger,39.08,4.6,275.0,20.0,22.0
+77,American,Lincoln,Town car,48.911,Passenger,43.33,4.6,215.0,19.0,21.0
+78,American,Lincoln,Navigator,22.925,Car,42.66,5.4,300.0,30.0,15.0
+79,Asian,Mitsubishi,Mirage,26.232,Passenger,13.987,1.8,113.0,13.2,30.0
+80,Asian,Mitsubishi,Eclipse,42.541000000000004,Passenger,19.047,2.4,154.0,15.9,24.0
+81,Asian,Mitsubishi,Galant,55.61600000000001,Passenger,17.357,2.4,145.0,16.3,25.0
+82,Asian,Mitsubishi,Diamante,5.711,Passenger,24.997,3.5,210.0,19.0,22.0
+83,Asian,Mitsubishi,3000GT,0.11,Passenger,25.45,3.0,161.0,19.8,21.0
+84,Asian,Mitsubishi,Montero,11.337,Car,31.807,3.5,200.0,24.3,18.0
+85,Asian,Mitsubishi,Montero Sport,39.348,Car,22.527,3.0,173.0,19.5,20.0
+86,American,Mercury,Mystique,14.350999999999999,Passenger,16.24,2.0,125.0,15.0,28.0
+87,American,Mercury,Cougar,26.529,Passenger,16.54,2.0,125.0,16.0,30.0
+88,American,Mercury,Sable,67.956,Passenger,19.035,3.0,153.0,16.0,24.0
+89,American,Mercury,Grand Marquis,81.17399999999999,Passenger,22.605,4.6,200.0,19.0,21.0
+90,American,Mercury,Mountaineer,27.609,Car,27.56,4.0,210.0,21.0,18.0
+91,American,Mercury,Villager,20.38,Car,22.51,3.3,170.0,20.0,21.0
+92,European,Mercedes-Benz,C-Class,18.392,Passenger,31.75,2.3,185.0,16.4,26.0
+93,European,Mercedes-Benz,E-Class,27.601999999999997,Passenger,49.9,3.2,221.0,21.1,25.0
+94,European,Mercedes-Benz,S-Class,16.774,Passenger,69.7,4.3,275.0,23.2,21.0
+95,European,Mercedes-Benz,SL-Class,3.3110000000000004,Passenger,82.6,5.0,302.0,21.1,20.0
+96,European,Mercedes-Benz,SLK,7.997999999999999,Passenger,38.9,2.3,190.0,15.9,26.0
+97,European,Mercedes-Benz,SLK230,1.526,Passenger,41.0,2.3,185.0,14.0,27.0
+98,European,Mercedes-Benz,CLK Coupe,11.592,Passenger,41.6,3.2,215.0,16.4,26.0
+99,European,Mercedes-Benz,CL500,0.9540000000000001,Passenger,85.5,5.0,302.0,23.2,20.0
+100,European,Mercedes-Benz,M-Class,28.976,Car,35.3,3.2,215.0,19.0,20.0
+101,Asian,Nissan,Sentra,42.643,Passenger,13.499,1.8,126.0,13.2,30.0
+102,Asian,Nissan,Altima,88.094,Passenger,20.39,2.4,155.0,15.9,25.0
+103,Asian,Nissan,Maxima,79.85300000000001,Passenger,26.249,3.0,222.0,18.5,25.0
+104,Asian,Nissan,Quest,27.308000000000003,Car,26.399,3.3,170.0,20.0,21.0
+105,Asian,Nissan,Pathfinder,42.574,Car,29.299,3.3,170.0,21.0,19.0
+106,Asian,Nissan,Xterra,54.158,Car,22.799,3.3,170.0,19.4,18.0
+107,Asian,Nissan,Frontier,65.005,Car,17.89,3.3,170.0,19.4,18.0
+108,American,Oldsmobile,Cutlass,1.112,Passenger,18.145,3.1,150.0,15.2,25.0
+109,American,Oldsmobile,Intrigue,38.554,Passenger,24.15,3.5,215.0,18.0,21.0
+110,American,Oldsmobile,Alero,80.255,Passenger,18.27,2.4,150.0,15.0,27.0
+111,American,Oldsmobile,Aurora,14.69,Passenger,36.229,4.0,250.0,18.5,22.0
+112,American,Oldsmobile,Bravada,20.017,Car,31.598,4.3,190.0,17.5,19.0
+113,American,Oldsmobile,Silhouette,24.361,Car,25.345,3.4,185.0,25.0,22.0
+114,American,Plymouth,Neon,32.734,Passenger,12.64,2.0,132.0,12.5,29.0
+115,American,Plymouth,Breeze,5.24,Passenger,16.08,2.0,132.0,16.0,27.0
+116,American,Plymouth,Voyager,24.155,Car,18.85,2.4,150.0,20.0,24.0
+117,American,Plymouth,Prowler,1.8719999999999999,Passenger,43.0,3.5,253.0,12.0,21.0
+118,American,Pontiac,Sunfire,51.645,Passenger,21.61,2.4,150.0,15.0,27.0
+119,American,Pontiac,Grand Am,131.097,Passenger,19.72,3.4,175.0,15.2,25.0
+120,American,Pontiac,Firebird,19.910999999999998,Passenger,25.31,3.8,200.0,16.8,25.0
+121,American,Pontiac,Grand Prix,92.36399999999999,Passenger,21.665,3.8,195.0,18.0,25.0
+122,American,Pontiac,Bonneville,35.945,Passenger,23.755,3.8,205.0,17.5,24.0
+123,American,Pontiac,Montana,39.571999999999996,Car,25.635,3.4,185.0,25.0,23.0
+124,European,Porsche,Boxter,8.982000000000001,Passenger,41.43,2.7,217.0,17.0,22.0
+125,European,Porsche,Carrera Coupe,1.28,Passenger,71.02,3.4,300.0,17.0,21.0
+126,European,Porsche,Carrera Cabriolet,1.8659999999999999,Passenger,74.97,3.4,300.0,17.0,23.0
+127,European,Saab,5-Sep,9.191,Passenger,33.12,2.3,170.0,18.5,23.0
+128,European,Saab,3-Sep,12.115,Passenger,26.1,2.0,185.0,16.9,23.0
+129,American,Saturn,SL,80.62,Passenger,10.685,1.9,100.0,12.1,33.0
+130,American,Saturn,SC,24.546,Passenger,12.535,1.9,100.0,12.1,33.0
+131,American,Saturn,SW,5.223,Passenger,14.29,1.9,124.0,12.1,31.0
+132,American,Saturn,LW,8.472000000000001,Passenger,18.835,2.2,137.0,13.1,27.0
+133,American,Saturn,LS,49.989,Passenger,15.01,2.2,137.0,13.1,28.0
+134,Asian,Subaru,Outback,47.107,Passenger,22.695,2.5,165.0,16.9,25.0
+135,Asian,Subaru,Forester,33.028,Car,20.095,2.5,165.0,15.9,24.0
+136,Asian,Toyota,Corolla,142.535,Passenger,13.108,1.8,120.0,13.2,33.0
+137,Asian,Toyota,Camry,247.99400000000003,Passenger,17.518,2.2,133.0,18.5,27.0
+138,Asian,Toyota,Avalon,63.849,Passenger,25.545,3.0,210.0,18.5,26.0
+139,Asian,Toyota,Celica,33.269,Passenger,16.875,1.8,140.0,14.5,31.0
+140,Asian,Toyota,Tacoma,84.087,Car,11.528,2.4,142.0,15.1,23.0
+141,Asian,Toyota,Sienna,65.119,Car,22.368,3.0,194.0,20.9,22.0
+142,Asian,Toyota,RAV4,25.105999999999998,Car,16.888,2.0,127.0,15.3,27.0
+143,Asian,Toyota,4Runner,68.411,Car,22.288,2.7,150.0,18.5,23.0
+144,Asian,Toyota,Land Cruiser,9.835,Car,51.728,4.7,230.0,25.4,15.0
+145,European,Volkswagen,Golf,9.761000000000001,Passenger,14.9,2.0,115.0,14.5,26.0
+146,European,Volkswagen,Jetta,83.721,Passenger,16.7,2.0,115.0,14.5,26.0
+147,European,Volkswagen,Passat,51.102,Passenger,21.2,1.8,150.0,16.4,27.0
+148,European,Volkswagen,Cabrio,9.568999999999999,Passenger,19.99,2.0,115.0,13.7,26.0
+149,European,Volkswagen,GTI,5.596,Passenger,17.5,2.0,115.0,14.6,26.0
+150,European,Volkswagen,Beetle,49.463,Passenger,15.9,2.0,115.0,14.5,26.0
+151,European,Volvo,S40,16.957,Passenger,23.4,1.9,160.0,15.8,25.0
+152,European,Volvo,V40,3.545,Passenger,24.4,1.9,160.0,15.8,25.0
+153,European,Volvo,S70,15.245,Passenger,27.5,2.4,168.0,17.9,25.0
+154,European,Volvo,V70,17.531,Passenger,28.8,2.4,168.0,17.9,25.0
+155,European,Volvo,C70,3.4930000000000003,Passenger,45.5,2.3,236.0,18.5,23.0
+156,European,Volvo,S80,18.969,Passenger,36.0,2.9,201.0,21.1,24.0

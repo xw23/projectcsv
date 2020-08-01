@@ -1,0 +1,171 @@
+,Region,Make,Model,Displ,Cyl,Trans,Drive,Fuel,VehClass,CityMPG,HwyMPG,CmbMPG,GreenhouseGasScore
+0,European,Audi,A4,2.0,4.0,AMS-7,2WD,Gasoline,small car,27.0,34.0,30.0,7
+4,European,Bmw,330i,2.0,4.0,SemiAuto-8,2WD,Gasoline,small car,26.0,36.0,30.0,7
+6,European,Bmw,530e,2.0,4.0,SemiAuto-8,2WD,Gasoline/Electricity,small car,27.0,30.0,29.0,10
+8,European,Bmw,530e,2.0,4.0,SemiAuto-8,4WD,Gasoline/Electricity,small car,27.0,31.0,28.0,10
+10,European,Bmw,740e,2.0,4.0,SemiAuto-8,4WD,Gasoline/Electricity,large car,25.0,29.0,27.0,9
+12,European,Bmw,i3,0.6,2.0,Auto-1,2WD,Gasoline/Electricity,small car,30.0,31.0,31.0,10
+16,European,Bmw,i3s,0.6,2.0,Auto-1,2WD,Gasoline/Electricity,small car,30.0,31.0,31.0,10
+20,European,Bmw,i8 Coupe,1.5,3.0,Auto-6,4WD,Gasoline/Electricity,small car,26.0,29.0,27.0,10
+22,European,Bmw,i8 Roadster,1.5,3.0,Auto-6,4WD,Gasoline/Electricity,small car,26.0,29.0,27.0,10
+27,American,Chevrolet,Cruze,1.4,4.0,CVT,2WD,Gasoline,small car,30.0,38.0,33.0,8
+29,American,Chevrolet,Cruze,1.4,4.0,SemiAuto-6,2WD,Gasoline,small car,28.0,38.0,32.0,7
+31,American,Chevrolet,Cruze,1.6,4.0,Auto-9,2WD,Diesel,small car,31.0,48.0,37.0,7
+33,American,Chevrolet,Cruze Hatchback,1.4,4.0,SemiAuto-6,2WD,Gasoline,midsize car,28.0,38.0,32.0,7
+35,American,Chevrolet,Cruze Premier,1.4,4.0,SemiAuto-6,2WD,Gasoline,small car,28.0,38.0,32.0,7
+37,American,Chevrolet,Cruze Premier Hatchback,1.4,4.0,SemiAuto-6,2WD,Gasoline,midsize car,28.0,37.0,31.0,7
+39,American,Chevrolet,Malibu,1.5,4.0,CVT,2WD,Gasoline,midsize car,29.0,36.0,32.0,7
+43,American,Chevrolet,Malibu,1.8,4.0,CVT,2WD,Gasoline,midsize car,49.0,43.0,46.0,10
+45,American,Chevrolet,Sonic,1.4,4.0,Man-6,2WD,Gasoline,small car,27.0,38.0,31.0,7
+47,American,Chevrolet,Spark,1.4,4.0,CVT,2WD,Gasoline,small car,30.0,38.0,33.0,8
+49,American,Chevrolet,Spark,1.4,4.0,Man-5,2WD,Gasoline,small car,29.0,38.0,33.0,8
+51,American,Chevrolet,Spark Activ,1.4,4.0,CVT,2WD,Gasoline,small car,30.0,37.0,33.0,8
+53,American,Chevrolet,Spark Activ,1.4,4.0,Man-5,2WD,Gasoline,small car,29.0,37.0,32.0,7
+55,American,Chevrolet,Volt,1.5,4.0,CVT,2WD,Gasoline/Electricity,small car,43.0,42.0,42.0,10
+59,American,Chrysler,Pacifica Hybrid,3.6,6.0,CVT,2WD,Gasoline/Electricity,minivan,29.0,30.0,30.0,10
+61,European,Fiat,124 Spider,1.4,4.0,Man-6,2WD,Gasoline,small car,26.0,35.0,30.0,7
+63,European,Fiat,500,1.4,4.0,Man-5,2WD,Gasoline,small car,28.0,33.0,30.0,7
+65,European,Fiat,500 Abarth,1.4,4.0,Man-5,2WD,Gasoline,small car,28.0,33.0,30.0,7
+69,American,Ford,Fiesta,1.6,4.0,AMS-6,2WD,Gasoline,small car,27.0,37.0,31.0,7
+71,American,Ford,Fiesta,1.6,4.0,Man-5,2WD,Gasoline,small car,27.0,35.0,30.0,7
+73,American,Ford,Fusion Energi Plug-in Hybrid,2.0,4.0,CVT,2WD,Gasoline/Electricity,midsize car,43.0,40.0,42.0,10
+75,American,Ford,Fusion Hybrid,2.0,4.0,CVT,2WD,Gasoline,midsize car,43.0,41.0,42.0,9
+77,American,Ford,Fusion Hybrid Taxi,2.0,4.0,CVT,2WD,Gasoline,midsize car,43.0,40.0,41.0,9
+79,Asian,Honda,Accord,1.5,4.0,CVT,2WD,Gasoline,large car,30.0,38.0,33.0,8
+81,Asian,Honda,Accord,1.5,4.0,Man-6,2WD,Gasoline,large car,26.0,35.0,30.0,7
+83,Asian,Honda,Accord,1.5,4.0,SCV-7,2WD,Gasoline,large car,29.0,35.0,31.0,7
+85,Asian,Honda,Accord,2.0,4.0,CVT,2WD,Gasoline,large car,48.0,48.0,48.0,10
+87,Asian,Honda,CR-V,1.5,4.0,CVT,2WD,Gasoline,small SUV,28.0,34.0,30.0,7
+89,Asian,Honda,Civic 2Dr,1.5,4.0,CVT,2WD,Gasoline,small car,31.0,40.0,35.0,8
+93,Asian,Honda,Civic 2Dr,1.5,4.0,Man-6,2WD,Gasoline,small car,28.0,38.0,32.0,7
+95,Asian,Honda,Civic 2Dr,1.5,4.0,SCV-7,2WD,Gasoline,small car,30.0,37.0,33.0,8
+99,Asian,Honda,Civic 2Dr,2.0,4.0,CVT,2WD,Gasoline,small car,30.0,38.0,33.0,8
+103,Asian,Honda,Civic 2Dr,2.0,4.0,SCV-7,2WD,Gasoline,small car,29.0,36.0,32.0,7
+107,Asian,Honda,Civic 4Dr,1.5,4.0,CVT,2WD,Gasoline,midsize car,32.0,42.0,36.0,8
+111,Asian,Honda,Civic 4Dr,1.5,4.0,Man-6,2WD,Gasoline,midsize car,28.0,38.0,32.0,7
+113,Asian,Honda,Civic 4Dr,1.5,4.0,SCV-7,2WD,Gasoline,midsize car,30.0,38.0,33.0,8
+117,Asian,Honda,Civic 4Dr,2.0,4.0,CVT,2WD,Gasoline,midsize car,30.0,38.0,33.0,8
+121,Asian,Honda,Civic 4Dr,2.0,4.0,SCV-7,2WD,Gasoline,midsize car,29.0,37.0,32.0,7
+125,Asian,Honda,Civic 5Dr,1.5,4.0,CVT,2WD,Gasoline,large car,31.0,40.0,34.0,8
+129,Asian,Honda,Civic 5Dr,1.5,4.0,Man-6,2WD,Gasoline,large car,29.0,38.0,33.0,8
+131,Asian,Honda,Civic 5Dr,1.5,4.0,SCV-7,2WD,Gasoline,large car,30.0,36.0,32.0,7
+135,Asian,Honda,Clarity,1.5,4.0,CVT,2WD,Gasoline/Electricity,midsize car,44.0,40.0,42.0,10
+141,Asian,Honda,Fit,1.5,4.0,CVT,2WD,Gasoline,station wagon,33.0,40.0,36.0,8
+143,Asian,Honda,Fit,1.5,4.0,Man-6,2WD,Gasoline,station wagon,29.0,36.0,31.0,7
+146,Asian,Honda,Fit,1.5,4.0,SCV-7,2WD,Gasoline,station wagon,31.0,36.0,33.0,8
+148,Asian,Honda,HR-V,1.8,4.0,CVT,2WD,Gasoline,station wagon,28.0,34.0,30.0,7
+150,Asian,Honda,HR-V,1.8,4.0,SCV-7,2WD,Gasoline,station wagon,28.0,34.0,30.0,7
+152,Asian,Honda,Insight,1.5,4.0,CVT,2WD,Gasoline,midsize car,55.0,49.0,52.0,10
+154,Asian,Honda,Insight Touring,1.5,4.0,CVT,2WD,Gasoline,midsize car,51.0,45.0,48.0,10
+156,Asian,Hyundai,Accent,1.6,4.0,Man-6,2WD,Gasoline,small car,28.0,37.0,31.0,7
+158,Asian,Hyundai,Accent,1.6,4.0,SemiAuto-6,2WD,Gasoline,small car,28.0,38.0,32.0,7
+160,Asian,Hyundai,Elantra,1.4,4.0,AutoMan-7,2WD,Gasoline,midsize car,32.0,40.0,35.0,8
+162,Asian,Hyundai,Elantra,2.0,4.0,SemiAuto-6,2WD,Gasoline,midsize car,28.0,37.0,32.0,7
+166,Asian,Hyundai,Elantra SE,2.0,4.0,SemiAuto-6,2WD,Gasoline,midsize car,29.0,38.0,33.0,8
+170,Asian,Hyundai,Ioniq,1.6,4.0,AutoMan-6,2WD,Gasoline,large car,55.0,54.0,55.0,10
+172,Asian,Hyundai,Ioniq Blue,1.6,4.0,AutoMan-6,2WD,Gasoline,large car,57.0,59.0,58.0,10
+176,Asian,Hyundai,Ioniq Plug-in Hybrid,1.6,4.0,AutoMan-6,2WD,Gasoline/Electricity,midsize car,53.0,52.0,52.0,10
+178,Asian,Hyundai,Kona,1.6,4.0,AutoMan-7,2WD,Gasoline,small SUV,28.0,32.0,30.0,7
+180,Asian,Hyundai,Kona,2.0,4.0,SemiAuto-6,2WD,Gasoline,small SUV,27.0,33.0,30.0,7
+188,Asian,Hyundai,Sonata,1.6,4.0,AutoMan-7,2WD,Gasoline,large car,28.0,37.0,31.0,7
+190,Asian,Hyundai,Sonata Hybrid,2.0,4.0,AutoMan-6,2WD,Gasoline,midsize car,39.0,44.0,41.0,9
+192,Asian,Hyundai,Sonata Hybrid SE,2.0,4.0,AutoMan-6,2WD,Gasoline,midsize car,40.0,46.0,42.0,9
+194,Asian,Hyundai,Sonata plug-in hybrid,2.0,4.0,AutoMan-6,2WD,Gasoline/Electricity,midsize car,37.0,42.0,39.0,10
+196,Asian,Hyundai,Veloster,1.6,4.0,AutoMan-7,2WD,Gasoline,small car,28.0,34.0,30.0,7
+198,Asian,Hyundai,Veloster,2.0,4.0,SemiAuto-6,2WD,Gasoline,small car,27.0,34.0,30.0,7
+201,Asian,Kia,Forte,2.0,4.0,CVT,2WD,Gasoline,midsize car,30.0,40.0,34.0,8
+205,Asian,Kia,Forte,2.0,4.0,Man-6,2WD,Gasoline,midsize car,27.0,37.0,31.0,7
+207,Asian,Kia,Forte FE,2.0,4.0,CVT,2WD,Gasoline,midsize car,31.0,41.0,35.0,8
+209,Asian,Kia,Niro,1.6,4.0,AutoMan-6,2WD,Gasoline,station wagon,51.0,46.0,49.0,10
+213,Asian,Kia,Niro FE,1.6,4.0,AutoMan-6,2WD,Gasoline,station wagon,52.0,49.0,50.0,10
+215,Asian,Kia,Niro Plug-in Hybrid,1.6,4.0,AutoMan-6,2WD,Gasoline/Electricity,station wagon,48.0,44.0,46.0,10
+217,Asian,Kia,Niro Touring,1.6,4.0,AutoMan-6,2WD,Gasoline,station wagon,46.0,40.0,43.0,9
+219,Asian,Kia,Optima,1.6,4.0,AutoMan-7,2WD,Gasoline,large car,27.0,37.0,31.0,7
+221,Asian,Kia,Optima Hybrid,2.0,4.0,AutoMan-6,2WD,Gasoline,midsize car,39.0,45.0,41.0,9
+223,Asian,Kia,Optima plug-in hybrid,2.0,4.0,AutoMan-6,2WD,Gasoline/Electricity,midsize car,38.0,43.0,40.0,10
+225,Asian,Kia,Rio,1.6,4.0,Man-6,2WD,Gasoline,small car,29.0,37.0,32.0,7
+227,Asian,Kia,Rio,1.6,4.0,SemiAuto-6,2WD,Gasoline,small car,28.0,37.0,32.0,7
+231,Asian,Lexus,ES 300h,2.5,4.0,SCV-6,2WD,Gasoline,midsize car,43.0,45.0,44.0,10
+233,Asian,Lexus,LC 500h,3.5,6.0,SCV-10,2WD,Gasoline,small car,27.0,35.0,30.0,7
+235,Asian,Lexus,NX 300h,2.5,4.0,SCV-6,4WD,Gasoline,small SUV,33.0,30.0,31.0,7
+237,Asian,Lexus,RX 450h,3.5,6.0,SCV-6,4WD,Gasoline,standard SUV,31.0,28.0,30.0,7
+239,Asian,Lexus,UX 200,2.0,4.0,SCV-10,2WD,Gasoline,midsize car,29.0,37.0,33.0,8
+241,Asian,Lexus,UX 250h,2.0,4.0,SCV-6,2WD,Gasoline,small car,43.0,41.0,42.0,9
+243,Asian,Lexus,UX 250h,2.0,4.0,SCV-6,4WD,Gasoline,small car,41.0,38.0,39.0,9
+245,American,Lincoln,MKZ Hybrid,2.0,4.0,CVT,2WD,Gasoline,midsize car,42.0,39.0,41.0,9
+247,Asian,Mazda,2,1.5,4.0,Man-6,2WD,Gasoline,small car,30.0,39.0,34.0,8
+249,Asian,Mazda,2,1.5,4.0,SemiAuto-6,2WD,Gasoline,small car,32.0,40.0,35.0,8
+251,Asian,Mazda,CX-3,2.0,4.0,SemiAuto-6,2WD,Gasoline,small car,29.0,34.0,31.0,7
+253,Asian,Mazda,MX-5,2.0,4.0,SemiAuto-6,2WD,Gasoline,small car,26.0,35.0,30.0,7
+255,Asian,Mazda,Mazda3,2.5,4.0,SemiAuto-6,2WD,Gasoline,midsize car,26.0,35.0,30.0,7
+257,Asian,Mazda,Mazda3,2.5,4.0,SemiAuto-6,2WD,Gasoline,small car,26.0,35.0,30.0,7
+258,Asian,Mazda,Mazda3,2.5,4.0,SemiAuto-6,2WD,Gasoline,small car,27.0,36.0,30.0,7
+261,European,Mercedes-Benz,GLC 350e 4Matic,2.0,4.0,Auto-7,4WD,Gasoline/Electricity,small SUV,24.0,27.0,25.0,9
+263,European,Mini,Cooper Convertible,1.5,3.0,Man-6,2WD,Gasoline,small car,28.0,37.0,31.0,7
+265,European,Mini,Cooper Convertible,1.5,3.0,SemiAuto-6,2WD,Gasoline,small car,27.0,35.0,30.0,7
+267,European,Mini,Cooper Hardtop,1.5,3.0,Man-6,2WD,Gasoline,small car,28.0,37.0,31.0,7
+268,European,Mini,Cooper Hardtop,1.5,3.0,Man-6,2WD,Gasoline,small car,28.0,38.0,32.0,7
+271,European,Mini,Cooper Hardtop,1.5,3.0,SemiAuto-6,2WD,Gasoline,small car,27.0,35.0,30.0,7
+273,European,Mini,Cooper SE Countryman All4,1.5,3.0,SemiAuto-6,4WD,Gasoline/Electricity,midsize car,28.0,27.0,27.0,9
+275,Asian,Mitsubishi,Mirage,1.2,3.0,CVT,2WD,Gasoline,small car,36.0,43.0,39.0,9
+277,Asian,Mitsubishi,Mirage,1.2,3.0,Man-5,2WD,Gasoline,small car,33.0,41.0,36.0,8
+279,Asian,Mitsubishi,Mirage G4,1.2,3.0,CVT,2WD,Gasoline,small car,35.0,41.0,37.0,8
+281,Asian,Mitsubishi,Mirage G4,1.2,3.0,Man-5,2WD,Gasoline,small car,33.0,40.0,35.0,8
+283,Asian,Mitsubishi,Outlander PHEV,2.0,4.0,Auto-1,4WD,Gasoline/Electricity,small SUV,25.0,26.0,25.0,10
+285,Asian,Nissan,Altima,2.5,4.0,CVT,2WD,Gasoline,midsize car,28.0,39.0,32.0,7
+287,Asian,Nissan,Altima,2.5,4.0,CVT,4WD,Gasoline,midsize car,26.0,36.0,30.0,7
+289,Asian,Nissan,Altima SR/Platinum,2.5,4.0,CVT,2WD,Gasoline,midsize car,27.0,37.0,31.0,7
+291,Asian,Nissan,Kicks,1.6,4.0,CVT,2WD,Gasoline,midsize car,31.0,36.0,33.0,8
+299,Asian,Nissan,Rogue Hybrid,2.0,4.0,SCV-7,2WD,Gasoline,small SUV,33.0,35.0,34.0,8
+301,Asian,Nissan,Rogue Hybrid,2.0,4.0,SCV-7,4WD,Gasoline,small SUV,31.0,34.0,33.0,8
+303,Asian,Nissan,Sentra,1.8,4.0,CVT,2WD,Gasoline,midsize car,29.0,37.0,32.0,7
+305,Asian,Nissan,Versa,1.6,4.0,CVT,2WD,Gasoline,small car,31.0,39.0,34.0,8
+309,Asian,Nissan,Versa,1.6,4.0,Man-5,2WD,Gasoline,small car,27.0,36.0,30.0,7
+311,European,Porsche,Cayenne e-Hybrid,3.0,6.0,SemiAuto-8,4WD,Gasoline/Electricity,standard SUV,21.0,23.0,22.0,8
+313,European,Porsche,Panamera 4 e-Hybrid,2.9,6.0,AMS-8,4WD,Gasoline/Electricity,large car,21.0,24.0,23.0,8
+315,European,Porsche,Panamera 4 e-Hybrid Executive,2.9,6.0,AMS-8,4WD,Gasoline/Electricity,large car,21.0,24.0,23.0,8
+317,European,Porsche,Panamera 4 e-Hybrid ST,2.9,6.0,AMS-8,4WD,Gasoline/Electricity,large car,21.0,24.0,23.0,8
+319,European,Porsche,Panamera Turbo S e-Hybrid,4.0,8.0,AMS-8,4WD,Gasoline/Electricity,large car,19.0,22.0,20.0,7
+321,European,Porsche,Panamera Turbo S e-Hybrid Exec,4.0,8.0,AMS-8,4WD,Gasoline/Electricity,large car,19.0,22.0,20.0,7
+323,European,Porsche,Panamera Turbo S e-Hybrid ST,4.0,8.0,AMS-8,4WD,Gasoline/Electricity,large car,19.0,22.0,20.0,7
+329,Asian,Subaru,Crosstrek Hybrid,2.0,4.0,CVT,4WD,Gasoline/Electricity,small SUV,36.0,35.0,35.0,10
+331,Asian,Subaru,Impreza,2.0,4.0,SCV-7,4WD,Gasoline,midsize car,28.0,38.0,32.0,7
+332,Asian,Subaru,Impreza,2.0,4.0,SCV-7,4WD,Gasoline,station wagon,28.0,36.0,31.0,7
+335,Asian,Subaru,Impreza 4-Door Sport,2.0,4.0,SCV-7,4WD,Gasoline,midsize car,27.0,36.0,30.0,7
+337,Asian,Subaru,Impreza 5-Door Sport,2.0,4.0,SCV-7,4WD,Gasoline,station wagon,27.0,35.0,30.0,7
+377,Asian,Toyota,Avalon Hybrid,2.5,4.0,SCV-6,2WD,Gasoline,midsize car,43.0,43.0,43.0,9
+379,Asian,Toyota,Avalon Hybrid XLE,2.5,4.0,SCV-6,2WD,Gasoline,midsize car,43.0,44.0,44.0,10
+381,Asian,Toyota,Camry,2.5,4.0,SemiAuto-8,2WD,Gasoline,midsize car,29.0,41.0,34.0,8
+383,Asian,Toyota,Camry Hybrid LE,2.5,4.0,SCV-6,2WD,Gasoline,midsize car,51.0,53.0,52.0,10
+385,Asian,Toyota,Camry Hybrid XLE/SE,2.5,4.0,SCV-6,2WD,Gasoline,midsize car,44.0,47.0,46.0,10
+387,Asian,Toyota,Camry LE/SE,2.5,4.0,SemiAuto-8,2WD,Gasoline,midsize car,28.0,39.0,32.0,7
+389,Asian,Toyota,Camry XLE/XSE,2.5,4.0,SemiAuto-8,2WD,Gasoline,midsize car,28.0,39.0,32.0,7
+391,Asian,Toyota,Corolla,1.8,4.0,CVT,2WD,Gasoline,midsize car,28.0,36.0,32.0,7
+393,Asian,Toyota,Corolla,1.8,4.0,Man-6,2WD,Gasoline,midsize car,27.0,35.0,30.0,7
+395,Asian,Toyota,Corolla,1.8,4.0,SCV-7,2WD,Gasoline,midsize car,28.0,35.0,31.0,7
+397,Asian,Toyota,Corolla Hatchback,2.0,4.0,Man-6,2WD,Gasoline,small car,28.0,37.0,31.0,7
+399,Asian,Toyota,Corolla Hatchback,2.0,4.0,SCV-10,2WD,Gasoline,small car,32.0,42.0,36.0,8
+401,Asian,Toyota,Corolla Hatchback XSE,2.0,4.0,SCV-10,2WD,Gasoline,small car,30.0,38.0,33.0,8
+403,Asian,Toyota,Corolla LE Eco,1.8,4.0,CVT,2WD,Gasoline,midsize car,29.0,38.0,33.0,8
+404,Asian,Toyota,Corolla LE Eco,1.8,4.0,CVT,2WD,Gasoline,midsize car,30.0,40.0,34.0,8
+409,Asian,Toyota,Prius,1.8,4.0,CVT,2WD,Gasoline,midsize car,54.0,50.0,52.0,10
+411,Asian,Toyota,Prius,1.8,4.0,CVT,4WD,Gasoline,midsize car,52.0,48.0,50.0,10
+413,Asian,Toyota,Prius Eco,1.8,4.0,CVT,2WD,Gasoline,midsize car,58.0,53.0,56.0,10
+415,Asian,Toyota,Prius Prime,1.8,4.0,CVT,2WD,Gasoline/Electricity,midsize car,55.0,53.0,54.0,10
+417,Asian,Toyota,Prius c,1.5,4.0,CVT,2WD,Gasoline,small car,48.0,43.0,46.0,10
+419,Asian,Toyota,RAV4,2.5,4.0,SemiAuto-8,2WD,Gasoline,small SUV,26.0,35.0,30.0,7
+421,Asian,Toyota,RAV4,2.5,4.0,SemiAuto-8,4WD,Gasoline,small SUV,27.0,34.0,30.0,7
+423,Asian,Toyota,RAV4 Hybrid,2.5,4.0,SCV-6,4WD,Gasoline,small SUV,41.0,38.0,40.0,9
+425,Asian,Toyota,Yaris,1.5,4.0,Auto-4,2WD,Gasoline,small car,30.0,35.0,32.0,7
+427,Asian,Toyota,Yaris,1.5,4.0,Man-6,2WD,Gasoline,small car,30.0,39.0,34.0,8
+429,Asian,Toyota,Yaris,1.5,4.0,SemiAuto-6,2WD,Gasoline,small car,32.0,40.0,35.0,8
+431,European,Volkswagen,Golf,1.4,4.0,Man-6,2WD,Gasoline,small car,29.0,37.0,32.0,7
+433,European,Volkswagen,Golf,1.4,4.0,SemiAuto-8,2WD,Gasoline,small car,29.0,37.0,32.0,7
+435,European,Volkswagen,Golf SportWagen,1.4,4.0,Man-6,2WD,Gasoline,station wagon,29.0,37.0,32.0,7
+437,European,Volkswagen,Golf SportWagen,1.4,4.0,SemiAuto-8,2WD,Gasoline,station wagon,27.0,36.0,31.0,7
+439,European,Volkswagen,Jetta,1.4,4.0,Man-6,2WD,Gasoline,small car,30.0,40.0,34.0,8
+441,European,Volkswagen,Jetta,1.4,4.0,SemiAuto-8,2WD,Gasoline,small car,30.0,40.0,34.0,8
+445,European,Volvo,S60,2.0,4.0,SemiAuto-8,4WD,Gasoline/Electricity,small car,29.0,34.0,31.0,10
+447,European,Volvo,S90,2.0,4.0,SemiAuto-8,4WD,Gasoline/Electricity,midsize car,26.0,33.0,29.0,10
+449,European,Volvo,XC60,2.0,4.0,SemiAuto-8,4WD,Gasoline/Electricity,small SUV,25.0,28.0,26.0,9
+451,European,Volvo,XC90,2.0,4.0,SemiAuto-8,4WD,Gasoline/Electricity,standard SUV,24.0,27.0,25.0,9
