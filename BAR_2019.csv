@@ -1,0 +1,22 @@
+,Region,Model,Displ,Cyl,Drive,Fuel,VehClass,CityMPG,HwyMPG,CmbMPG,GreenhouseGasScore,Make,NumOfModel
+0,European,A4,2,4,2WD,Gasoline,small car,27,34,30,7,Audi,1
+4,European,330i,2,4,2WD,Gasoline,small car,26,36,30,7,Bmw,7
+27,American,Cruze,1.4,4,2WD,Gasoline,small car,30,38,33,8,Chevrolet,14
+59,American,Pacifica Hybrid,3.6,6,2WD,Gasoline/Electricity,minivan,29,30,30,10,Chrysler,1
+61,European,124 Spider,1.4,4,2WD,Gasoline,small car,26,35,30,7,Fiat,3
+69,American,Fiesta,1.6,4,2WD,Gasoline,small car,27,37,31,7,Ford,5
+79,Asian,Accord,1.5,4,2WD,Gasoline,large car,30,38,33,8,Honda,25
+156,Asian,Accent,1.6,4,2WD,Gasoline,small car,28,37,31,7,Hyundai,16
+201,Asian,Forte,2,4,2WD,Gasoline,midsize car,30,40,34,8,Kia,12
+231,Asian,ES 300h,2.5,4,2WD,Gasoline,midsize car,43,45,44,10,Lexus,7
+245,American,MKZ Hybrid,2,4,2WD,Gasoline,midsize car,42,39,41,9,Lincoln,1
+247,Asian,2,1.5,4,2WD,Gasoline,small car,30,39,34,8,Mazda,7
+261,European,GLC 350e 4Matic,2,4,4WD,Gasoline/Electricity,small SUV,24,27,25,9,Mercedes-Benz,1
+263,European,Cooper Convertible,1.5,3,2WD,Gasoline,small car,28,37,31,7,Mini,5
+275,Asian,Mirage,1.2,3,2WD,Gasoline,small car,36,43,39,9,Mitsubishi,5
+285,Asian,Altima,2.5,4,2WD,Gasoline,midsize car,28,39,32,7,Nissan,9
+311,European,Cayenne e-Hybrid,3,6,4WD,Gasoline/Electricity,standard SUV,21,23,22,8,Porsche,7
+329,Asian,Crosstrek Hybrid,2,4,4WD,Gasoline/Electricity,small SUV,36,35,35,10,Subaru,5
+377,Asian,Avalon Hybrid,2.5,4,2WD,Gasoline,midsize car,43,43,43,9,Toyota,26
+431,European,Golf,1.4,4,2WD,Gasoline,small car,29,37,32,7,Volkswagen,4
+445,European,S60,2,4,4WD,Gasoline/Electricity,small car,29,34,31,10,Volvo,4
